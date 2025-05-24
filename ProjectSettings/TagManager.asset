@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pop Tire
+  - Underside
+  - Bullet
+  - Weapon
+  - Projectile
+  - Life
+  - Ammo
+  - InfoPanelCanvas
+  - Car
+  - CarSensTrigger
+  - HorseSensTrigger
+  - MotoSensTrigger
+  - HeliSensTrigger
+  - PlaneSensTrigger
+  - Fire
+  - FxTemporaire
+  - FlagPoint
+  - BodyPart
+  - Grenade
+  - MolotovGrenade
+  - SmokeGrenade
+  - LootGun
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ignore Wheel Cast
+  - Vehicles
+  - Detachable Part
+  - YuME_TileMap
+  - Border
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - BodyPart
+  - Baked
+  - Ledge
+  - Climb
+  - Push
+  - Vault
+  - Cover
+  - CharacterCollider
+  - VisualEffect
+  - MovingPlatform
+  - Enemy
+  - Player
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20b2ff862084fa5dae619c96b29b0bf2, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier:
+  AppID: 630fd411-f641-452d-acd4-656f03d101d7
+  VoiceAppID:
+  ChatAppID:
+  HostType: 1
+  PreferredRegion: 0
+  EnabledRegions: -1
+  Protocol: 0
+  ServerAddress:
+  ServerPort: 5055
+  VoiceServerPort: 5055
+  JoinLobby: 0
+  EnableLobbyStatistics: 0
+  PunLogging: 0
+  NetworkLogging: 1
+  RunInBackground: 1
+  RpcList:
+  - AddMessage2RPC
+  - AddMessageRPC
+  - ApplyDamageRPC
+  - Chat
+  - CreateBonus
+  - CreateWeaponRPC
+  - DamageRPC
+  - DecelectItemRPC
+  - DestroyRpc
+  - DestroySelfR
+  - EnterPauseModeRPC
+  - Explode
+  - InstantiateRpc
+  - ItemSelectedRPC
+  - JumpRPC
+  - KickPlayer
+  - OnDropR
+  - OnEnterCarRPC
+  - OnGroundRPC
+  - OnLeaveCarRPC
+  - OnPlayerLeaveMeRPC
+  - OnPlayerSitMeRPC
+  - OnStartFlyingOnJetpackRPC
+  - OnStartJetFlyingRPC
+  - OnStopJetFlyingRPC
+  - OutFromPauseModeRPC
+  - PickupItemInit
+  - PunPickup
+  - PunPickupSimple
+  - PunRespawn
+  - PushBulletRPC
+  - ReloadR
+  - RemoveObject
+  - RequestForPickupItems
+  - RequestForPickupTimes
+  - RespawnRPC
+  - SetFlagBusy
+  - StartAttackR
+  - StartShootRPC
+  - StopAttackR
+  - StopShootingRPC
+  - StopShootRPC
+  - SyncAnimIdle
+  - SyncAnimRun
+  - SyncCFScore
+  - SyncTeamScoreR
+  - SynsPropsR
+  - ThrowBulletRPC
+  - ThrowGrenadeEvR
+  - ThrowGrenadeRPC
+  - UpdateHp
+  - UpdateHP
+  - UpdateTargetR
+  - UpdStateOnNew
+  - WaveChangedR
+  - WriteChatFragMsgR
+  - StartBattleRoyaleR
+  - BattleRoyaleFinishedR
+  - OnBoomLootBoxR
+  DisableAutoOpenWizard: 1

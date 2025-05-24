@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f835dcdd44a008f4497c2cf618e3dd15
+  - enabled: 1
+    path: Assets/Scenes/Dust2.unity
+    guid: 372a0d3cb421b3b488dc49e2c98db59b
+  - enabled: 1
+    path: Assets/Scenes/ChaloHouse.unity
+    guid: 030b5afdb3a744748aadc51306be9644
+  - enabled: 1
+    path: Assets/Scenes/Dungeons.unity
+    guid: a6468135b1953d24b86f0b17dcb1325e
+  - enabled: 1
+    path: Assets/Scenes/SmallTown.unity
+    guid: 2b4a766b77ed2634d961264934346d38
+  - enabled: 1
+    path: Assets/Scenes/House.unity
+    guid: 0a415bdaa75d3ad44b6cdd2166415d71
+  - enabled: 1
+    path: Assets/Scenes/Proto07.unity
+    guid: 67f2a7b63d289624c83e9acb30d14c5f
+  - enabled: 1
+    path: Assets/Scenes/Lava.unity
+    guid: 703cfc913281cb849b1d208a35dd56b1
+  - enabled: 1
+    path: Assets/Scenes/RaceTrack1.unity
+    guid: 8ac3c7fc6bc4f2841a408a64b85212ed
+  m_configObjects: {}
