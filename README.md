@@ -1,26 +1,40 @@
-# Chicken Gun UWP Edition
-Chicken Gun UWP Edition is a fast-paced, multiplayer shooter where you control a chicken armed to the beak with a variety of weapons. This version is a port of the Chicken Gun PC Edition Beta to the Universal Windows Platform (UWP), bringing the chaotic fun of chicken warfare to Windows 10 devices.
+# Chicken Gun PC
 
-# Features:
-Multiple Weapons: Arm yourself with everything from pistols to explosive grenade launchers and powerful mega guns to take down opponents.
+Hello! This is the PC version of **Chicken Gun** — a first-person shooter game featuring chickens, made with Unity.
 
-3 Maps: Engage in combat across three exciting maps, each offering unique environments and strategic challenges.
+---
 
-2 Game Modes:
+## About the Project
 
-Team Deathmatch: Team up with other chickens and battle to eliminate the opposing team.
+Chicken Gun is a multiplayer FPS where players control chickens and fight each other using a variety of weapons.
 
-Free-For-All: In this chaotic mode, every chicken is for themselves. It's a battle to see who survives!
+This version is a modified remake for PC, with extra features and improvements.
 
-Multiplayer: Play online and compete with friends or other players from around the world.
+---
 
-Optimized for UWP: Available on Windows 10, with performance enhancements for both PCs and tablets.
+## Requirements
 
-Cross-Platform: Enjoy a seamless experience on various Windows 10 devices.
+- Unity 2019.4 (recommended)
+- Windows 10 or higher
+- PC supporting OpenGL or DirectX
 
-# Requirements:
-Windows 10 (version 14393.0 or higher)
+---
 
-x64/x86 architecture
+## Installation and Running
 
-Internet connection required for multiplayer mode
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Nestor1232323/chicken-gun.git
+2. Open the project in Unity.
+
+3. Build for Windows or run inside the Unity editor.
+
+# Contributing
+Feel free to open issues or submit pull requests if you'd like to help improve the project.
+
+# License
+This project is licensed under the MIT License. Free to modify and use.
+
+# Contacts
+Author: Nestor, nonogamer9
+GitHub: https://github.com/Nestor1232323, https://github.com/nonogamer9
