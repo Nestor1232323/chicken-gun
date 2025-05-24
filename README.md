@@ -29,13 +29,13 @@ This version is a modified remake for PC, with extra features and improvements.
 
 3. Build for Windows or run inside the Unity editor.
 
-# Contributing
+## Contributing
 Feel free to open issues or submit pull requests if you'd like to help improve the project.
 
-# License
+## License
 This project is licensed under the MIT License. Free to modify and use.
 
-# Contacts
+## Contacts
 Author: Nestor, nonogamer9
 
 GitHub: https://github.com/Nestor1232323, https://github.com/nonogamer9
