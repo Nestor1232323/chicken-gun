@@ -1,5 +1,4 @@
-
-<h1 style="display: flex; align-items: center; gap: 10px;">
+<h1 style="display: flex; align-items: center; justify-content: center; gap: 10px; text-align: center;">
   <img src="logo.png" alt="OpenCG Logo" style="height: 50px;">
   OpenCG
 </h1>
