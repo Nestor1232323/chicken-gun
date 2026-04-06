@@ -12,6 +12,7 @@ Hello! This is the open-source version of **Chicken Gun** — a first-person sho
 ## About the Project
 
 Chicken Gun is a multiplayer FPS where players control chickens and fight each other using a variety of weapons.
+<br>
 Source by: Chicken Gun Community
 
 ---
