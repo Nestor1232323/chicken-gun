@@ -3,7 +3,7 @@
 | <img src="logo.png" alt="OpenCG Logo" width="50"> | **OpenCG** |
 | :--- | :--- |
 
-Hello! This is the PC version of **Chicken Gun** — a first-person shooter game featuring chickens, made with Unity.
+Hello! This is the open-source version of **Chicken Gun** — a first-person shooter game featuring chickens, made with Unity.
 
 </div>
 
@@ -12,8 +12,7 @@ Hello! This is the PC version of **Chicken Gun** — a first-person shooter game
 ## About the Project
 
 Chicken Gun is a multiplayer FPS where players control chickens and fight each other using a variety of weapons.
-
-This version is a modified remake for PC, with extra features and improvements compared to the original mobile game.
+Source by: SnowSans098 (i think)
 
 ---
 
