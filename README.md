@@ -1,6 +1,6 @@
 <div align="center">
 
-| <img src="logo.png" alt="OpenCG Logo" width="50"> | # **OpenCG** |
+| <img src="logo.png" alt="OpenCG Logo" width="50"> | **OpenCG** |
 | :--- | :--- |
 
 Hello! This is the PC version of **Chicken Gun** — a first-person shooter game featuring chickens, made with Unity.
