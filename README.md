@@ -1,9 +1,13 @@
-<h1 style="display: flex; align-items: center; justify-content: center; gap: 10px; text-align: center;">
-  <img src="logo.png" alt="OpenCG Logo" style="height: 50px;">
-  OpenCG
-</h1>
+<p align="center">
+  <img src="logo.png" alt="OpenCG Logo" style="height: 50px; vertical-align: middle; margin-right: 10px;">
+  <span style="font-size: 2em; font-weight: bold; vertical-align: middle;">OpenCG</span>
+</p>
 
-Hello! This is the PC version of **Chicken Gun** — a first-person shooter game featuring chickens, made with Unity.
+---
+
+<p align="center">
+  Hello! This is the PC version of <b>Chicken Gun</b> — a first-person shooter game featuring chickens, made with Unity.
+</p>
 
 ---
 
