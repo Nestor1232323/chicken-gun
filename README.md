@@ -43,3 +43,6 @@ Feel free to open issues or submit pull requests if you'd like to help improve t
 
 ## License
 This project is licensed under the MIT License. You are free to modify and use it.
+
+## Warning!!
+If you want to protect project, change the compilation from mono to il2cpp!!
