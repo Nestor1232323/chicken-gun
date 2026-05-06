@@ -3,7 +3,7 @@
 | <img src="logo.png" alt="OpenCG Logo" width="50"> | **OpenCG** |
 | :--- | :--- |
 
-Hello! This is the open-source version of **Chicken Gun** — a first-person shooter game featuring chickens, made with Unity.
+Hello! This is the open-source version of **Chicken Gun** - a first-person shooter game featuring chickens, made with Unity.
 
 </div>
 
