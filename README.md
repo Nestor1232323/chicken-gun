@@ -30,13 +30,8 @@ Source by: Chicken Gun Community
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Nestor1232323/chicken-gun.git
-2. Create a new Unity project (3D template recommended).
-
-3. Replace the project's Assets and other relevant folders with the contents from the cloned repository.
-
-4. Open the project in Unity Editor.
-
-5. Build the project for Windows or run it directly inside the Unity Editor.
+   
+2. Open folder in Unity
 
 ## Contributing
 Feel free to open issues or submit pull requests if you'd like to help improve the project.
