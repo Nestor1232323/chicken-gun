@@ -39,7 +39,9 @@ Feel free to open issues or submit pull requests if you'd like to help improve t
 ## License
 This project is licensed under the MIT License. You are free to modify and use it.
 
-## Warning!!
+## Warning
 If you want to protect project, change the compilation from mono to il2cpp!!
 
 *The project is published "as is." I am NOT the developer of this source code, do NOT provide Unity/Gradle bug fixes, and do NOT help with private server development. Please resolve any questions or bugs yourself.*
+
+*Please include the repository's author when you make a video or post it to your Telegram channel*
